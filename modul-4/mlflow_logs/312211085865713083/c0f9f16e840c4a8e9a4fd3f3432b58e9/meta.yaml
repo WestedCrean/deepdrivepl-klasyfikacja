@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Wiktor/code/kurs-klasyfikacja/modul-4/mlflow_logs/312211085865713083/c0f9f16e840c4a8e9a4fd3f3432b58e9/artifacts
+end_time: 1690966722378
+entry_point_name: ''
+experiment_id: '312211085865713083'
+lifecycle_stage: active
+run_id: c0f9f16e840c4a8e9a4fd3f3432b58e9
+run_name: baseline
+run_uuid: c0f9f16e840c4a8e9a4fd3f3432b58e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690966538343
+status: 3
+tags: []
+user_id: Wiktor
