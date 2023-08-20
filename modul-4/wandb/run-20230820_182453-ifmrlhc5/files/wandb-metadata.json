@@ -1,0 +1,43 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-08-20T16:24:54.092561",
+    "startedAt": "2023-08-20T16:24:53.094561",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Wiktor-Komputer",
+    "username": "Wiktor",
+    "executable": "c:\\Users\\Wiktor\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3900.0,
+        "min": 0.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3900.0,
+            "min": 0.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 465.236873626709,
+        "used": 194.7770538330078
+    },
+    "gpu": "NVIDIA GeForce RTX 4070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 Ti",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 31.95000457763672
+    }
+}
